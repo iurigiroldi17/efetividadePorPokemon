@@ -19,7 +19,7 @@ val efetividadePorPokemon = mapOf(
     "Pidgeot" to listOf("GRASS", "FIGHTING", "BUG"),
     "Rattata" to listOf(),
     "Raticate" to listOf(),
-    "Spearow" to listOf("GRASS", "FIGHTING", "BUG"),
+    "Spearow" to listOf("GRASS", "FIGhTING", "BUG"),
     "Fearow" to listOf("GRASS", "FIGHTING", "BUG"),
     "Ekans" to listOf("GRASS"),
     "Arbok" to listOf("GRASS"),
