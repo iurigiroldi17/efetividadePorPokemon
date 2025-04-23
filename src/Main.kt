@@ -1,4 +1,4 @@
-val pokemon = mapOf(
+val pokemon = listOf(
     "Bulbasaur" to listOf("FIRE", "ICE", "FLYING", "PSYCHIC"),
     "Ivysaur" to listOf("FIRE", "ICE", "FLYING", "PSYCHIC"),
     "Venusaur" to listOf("FIRE", "ICE", "FLYING", "PSYCHIC"),
